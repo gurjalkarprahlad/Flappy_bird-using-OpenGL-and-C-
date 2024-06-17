@@ -27,10 +27,7 @@ GLUT
 Installation
 Clone the repository:
 
-bash
-Copy code
-git clone https://github.com/yourusername/flappy-bird-cpp.git
-cd flappy-bird-cpp
+
 Install dependencies:
 
 On Debian-based systems (like Ubuntu):
